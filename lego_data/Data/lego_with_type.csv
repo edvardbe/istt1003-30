@@ -34,7 +34,7 @@ Forest Fire,City,84.0,9.99,56.0,49.0,other
 Jungle Raider,NINJAGO,127.0,9.99,60.0,61.0,other
 Unikitty Cloud Car,Unikitty,126.0,9.99,60.0,83.0,transport
 My First Race Car,DUPLO,6.0,4.99,9.0,6.0,transport
-Ocean Mini-Submarine,City,41.0,9.99,37.0,30.0,other
+Ocean Mini-Submarine,City,41.0,9.99,37.0,30.0,transport
 Olivia's Flower Garden,Friends,92.0,9.99,48.0,61.0,other
 Aurora's Royal Carriage,Disney,62.0,9.99,28.0,35.0,other
 Lloyd Avatar - Arcade Pod,NINJAGO,48.0,9.99,3.0,28.0,other
@@ -64,7 +64,7 @@ McLaren Senna,Speed Champions,219.0,14.99,64.0,92.0,transport
 Futuristic Flyer,Creator 3-in-1,157.0,14.99,136.0,65.0,other
 Deep Sea Creatures,Creator 3-in-1,230.0,14.99,176.0,83.0,other
 Gamora,BrickHeadz,136.0,9.99,48.0,51.0,other
-Mini CLAAS XERION,Technic,130.0,12.99,56.0,45.0,other
+Mini CLAAS XERION,Technic,130.0,12.99,56.0,45.0,transport
 1974 Porsche 911 Turbo 3.0,Speed Champions,180.0,14.99,80.0,75.0,transport
 Sith Troopers Battle Pack,Star Wars,105.0,14.99,40.0,51.0,other
 Mandalorian Battle Pack,Star Wars,102.0,14.99,44.0,59.0,other
@@ -132,7 +132,7 @@ Rex's Rex-treme Offroader!,THE LEGO MOVIE 2,236.0,29.99,132.0,109.0,other
 Rocket Truck,Creator 3-in-1,198.0,19.99,148.0,90.0,transport
 Imperial Patrol Battle Pack,Star Wars,99.0,14.99,36.0,43.0,other
 The Panda Nursery,Minecraft,204.0,19.99,48.0,76.0,other
-Police Pursuit,Technic,120.0,19.99,114.0,39.0,other
+Police Pursuit,Technic,120.0,19.99,114.0,39.0,transport
 Good Morning Sparkle Babies!,THE LEGO MOVIE 2,50.0,9.99,32.0,44.0,other
 Unstoppable Bike Chase,Minions,136.0,19.99,60.0,79.0,transport
 Ice-Cream Truck,City,200.0,19.99,100.0,112.0,transport
@@ -165,7 +165,7 @@ Mia's Heart Box,Friends,83.0,7.99,32.0,38.0,other
 Olivia's Play Cube - Sweet Shop,Friends,47.0,9.99,5.0,40.0,building
 Desert Rally Racer,City,75.0,9.99,36.0,45.0,transport
 Race Truck,Technic,227.0,19.99,35.0,59.0,transport
-Hook Loader,Technic,176.0,14.99,104.0,48.0,other
+Hook Loader,Technic,176.0,14.99,104.0,48.0,transport
 Andrea's Play Cube - Singer,Friends,49.0,9.99,5.0,32.0,other
 Rapunzel's Small Tower,Disney,44.0,9.99,24.0,28.0,building
 Mia's Forest Adventures ,Friends,134.0,14.99,44.0,77.0,other
@@ -215,7 +215,7 @@ Mining Power Splitter,City,127.0,19.99,60.0,85.0,other
 Buzz and Bo Peep's Playground Adventure,Disney,139.0,24.99,48.0,85.0,other
 Tracer vs. Widowmaker,Overwatch,129.0,14.99,48.0,74.0,other
 Spinjitzu Slam - Kai vs. Samurai,NINJAGO,164.0,19.99,76.0,67.0,other
-Outrider Dropship Attack,Marvel,124.0,14.99,52.0,63.0,other
+Outrider Dropship Attack,Marvel,124.0,14.99,52.0,63.0,transport
 Han Solo,Star Wars,101.0,24.99,44.0,55.0,other
 Shuttle Transporter,Creator 3-in-1,341.0,24.99,268.0,122.0,transport
 Alphabet Truck,DUPLO,36.0,24.99,1.0,35.0,transport
@@ -226,7 +226,7 @@ Drone Chase,City,192.0,29.99,100.0,112.0,transport
 Jay - Dragon Master,NINJAGO,92.0,14.99,48.0,53.0,other
 Airport,DUPLO,29.0,24.99,20.0,24.0,other
 Minecraft Alex BigFig with Chicken,Minecraft,160.0,14.99,40.0,70.0,other
-Cherry Picker,Technic,155.0,9.99,40.0,51.0,other
+Cherry Picker,Technic,155.0,9.99,40.0,51.0,transport
 Molten Man Battle,Spider-Man,294.0,29.99,76.0,117.0,other
 Spider-Man Car Chase,Marvel,52.0,9.99,36.0,38.0,transport
 J.B.'s Ghost Lab,Hidden Side,174.0,19.99,64.0,104.0,building
@@ -251,7 +251,7 @@ Jay and Lloyd's Velocity Racers,NINJAGO,322.0,29.99,148.0,142.0,other
 Underwater Loop,Friends,389.0,29.99,76.0,165.0,other
 Fire Chief Response Truck,City,201.0,29.99,84.0,98.0,transport
 Windows of Creativity,Classic,450.0,29.99,85.0,153.0,other
-Rover Testing Drive,City,202.0,29.99,96.0,98.0,other
+Rover Testing Drive,City,202.0,29.99,96.0,98.0,transport
 Shuricopter,NINJAGO,361.0,29.99,100.0,163.0,other
 The Blaze Bridge,Minecraft,372.0,29.99,108.0,127.0,other
 2018 Dodge Challenger SRT Demon and 1970 Dodge Charger R/T,Speed Champions,478.0,29.99,124.0,159.0,transport
@@ -283,7 +283,7 @@ El Fuego's Stunt Truck,Hidden Side,428.0,39.99,156.0,198.0,transport
 Anakin's Jedi Starfighter,Star Wars,247.0,19.99,84.0,111.0,transport
 The Golden Dragon,NINJAGO,171.0,19.99,60.0,74.0,other
 Tatooine Battle Pack,Star Wars,97.0,14.99,36.0,53.0,other
-Obi-Wan's Hut,Star Wars,200.0,29.99,68.0,118.0,other
+Obi-Wan's Hut,Star Wars,200.0,29.99,68.0,118.0,building
 Mythical Creatures,Creator 3-in-1,223.0,14.99,189.0,66.0,other
 Heart Box Friendship Pack,Friends,199.0,19.99,60.0,90.0,other
 RV Vacation,Disney,178.0,34.99,72.0,106.0,transport
@@ -303,7 +303,7 @@ Jay - Spinjitzu Master,NINJAGO,68.0,9.99,32.0,39.0,other
 Spinjitzu Nya & Wu,NINJAGO,227.0,19.99,56.0,49.0,other
 Aragog's Lair,Harry Potter,157.0,14.99,56.0,82.0,other
 Anakin's Jedi Interceptor,Star Wars,248.0,29.99,68.0,100.0,transport
-A-Wing vs. TIE Silencer Microfighters,Star Wars,188.0,19.99,72.0,88.0,other
+A-Wing vs. TIE Silencer Microfighters,Star Wars,188.0,19.99,72.0,88.0,transport
 Velociraptor: Biplane Rescue Mission,Jurassic World,101.0,29.99,76.0,72.0,transport
 Forbidden Forest: Umbridge's Encounter,Harry Potter,253.0,29.99,84.0,121.0,other
 Spiderjet vs. Venom Mech,Marvel,371.0,29.99,84.0,136.0,other
@@ -312,8 +312,8 @@ Newbury Subway,Hidden Side,348.0,29.99,108.0,146.0,other
 Emma's Fashion Shop,Friends,343.0,29.99,112.0,152.0,building
 Panda Jungle Tree House,Friends,265.0,29.99,120.0,149.0,building
 Formula E Panasonic Jaguar Racing GEN2 Car & Jaguar I-PACE eTROPHY,Speed Champions,565.0,29.99,128.0,186.0,transport
-BASH!,Technic,139.0,19.99,127.0,46.0,other
-Bakery,DUPLO,46.0,34.99,20.0,33.0,other
+BASH!,Technic,139.0,19.99,127.0,46.0,transport
+Bakery,DUPLO,46.0,34.99,20.0,33.0,building
 Police Station,DUPLO,38.0,29.99,22.0,25.0,building
 Kai - Spinjitzu Master,NINJAGO,61.0,9.99,32.0,33.0,other
 First Order Specialists Battle Pack,Star Wars,108.0,14.99,36.0,48.0,other
@@ -343,7 +343,7 @@ Buzz & Woody's Carnival Mania!,Disney,230.0,49.99,52.0,106.0,other
 Volcano Rock City Concert,Trolls World Tour,387.0,39.99,120.0,175.0,other
 Stephanie's Buggy & Trailer ,Friends,166.0,19.99,48.0,97.0,transport
 Road Repair Truck,Juniors,73.0,9.99,32.0,50.0,transport
-Heartlake City Supermarket,Friends,140.0,29.99,68.0,90.0,other
+Heartlake City Supermarket,Friends,140.0,29.99,68.0,90.0,building
 Katana V11,NINJAGO,257.0,19.99,84.0,111.0,other
 Elastigirl's Rooftop Pursuit,Juniors,95.0,19.99,64.0,77.0,other
 Rescue Helicopter,Technic,325.0,39.99,181.0,81.0,transport
@@ -353,7 +353,7 @@ Spider-Man vs. Scorpion Street Showdown,Marvel,125.0,19.99,64.0,82.0,other
 City Advent Calendar,City,313.0,29.99,4.0,194.0,other
 Friends Advent Calendar,Friends,500.0,29.99,4.0,202.0,other
 Arctic Ice Crawler,City,200.0,24.99,92.0,80.0,other
-Burger Bar Fire Rescue,City,327.0,39.99,164.0,153.0,other
+Burger Bar Fire Rescue,City,327.0,39.99,164.0,153.0,building
 My First Puzzle Pets,DUPLO,18.0,9.99,9.0,16.0,other
 1968 Ford Mustang Fastback,Speed Champions,183.0,14.99,60.0,74.0,transport
 Elite Praetorian Guard Battle Pack,Star Wars,109.0,14.99,40.0,52.0,other
@@ -394,8 +394,8 @@ Creative Tuning Shop,Friends,413.0,39.99,108.0,217.0,building
 Dorado Showdown,Overwatch,419.0,29.99,124.0,168.0,other
 Stormtrooper,Star Wars,124.0,9.99,32.0,51.0,other
 Spinjitzu Lloyd vs. Garmadon,NINJAGO,208.0,19.99,52.0,44.0,other
-Dozer Compactor,Technic,171.0,19.99,100.0,62.0,other
-Beauxbatons' Carriage: Arrival at Hogwarts ,Harry Potter,430.0,49.99,84.0,160.0,other
+Dozer Compactor,Technic,171.0,19.99,100.0,62.0,transport
+Beauxbatons' Carriage: Arrival at Hogwarts ,Harry Potter,430.0,49.99,84.0,160.0,transport
 Star Wars Advent Calendar,Star Wars,307.0,39.99,4.0,186.0,other
 My First Celebration,DUPLO,41.0,14.99,9.0,18.0,other
 Rhino Face-Off by the Mine,Marvel,229.0,19.99,88.0,100.0,other
@@ -405,7 +405,7 @@ Tiger Hot Air Balloon Jungle Rescue,Friends,302.0,39.99,116.0,145.0,other
 Avengers Truck Take-down,Marvel,477.0,39.99,116.0,164.0,transport
 Ocean Exploration Submarine,City,286.0,39.99,141.0,131.0,transport
 Townhouse Toy Store,Creator 3-in-1,554.0,39.99,268.0,194.0,building
-Space Rover Explorer,Creator 3-in-1,510.0,39.99,276.0,206.0,other
+Space Rover Explorer,Creator 3-in-1,510.0,39.99,276.0,206.0,transport
 Riverside Houseboat,Creator 3-in-1,396.0,39.99,200.0,157.0,other
 Iron Man MK50,BrickHeadz,101.0,9.99,32.0,41.0,other
 Rebel A-wing Starfighter,Star Wars,62.0,14.99,36.0,44.0,transport
@@ -435,12 +435,12 @@ Stephanie's Soccer Practice,Friends,119.0,14.99,48.0,78.0,other
 Emma's Art Stand,Friends,210.0,19.99,60.0,107.0,other
 Batman and The Joker Escape,Batman,171.0,39.99,72.0,119.0,other
 The Hulkbuster Smash-Up,Marvel,375.0,29.99,84.0,143.0,other
-Imperial Dropship Â 20th Anniversary Edition,Star Wars,125.0,19.99,60.0,57.0,other
+Imperial Dropship Â 20th Anniversary Edition,Star Wars,125.0,19.99,60.0,57.0,transport
 Raptor Rescue Truck,Juniors,85.0,24.99,56.0,56.0,transport
 Frozen Ice Castle,Disney,59.0,49.99,28.0,31.0,building
 Throne Room Showdown,NINJAGO,221.0,19.99,68.0,111.0,other
 Monster Burger Truck,Creator 3-in-1,499.0,49.99,248.0,183.0,transport
-WHACK!,Technic,135.0,19.99,123.0,41.0,other
+WHACK!,Technic,135.0,19.99,123.0,41.0,transport
 Service Station,City,354.0,49.99,193.0,179.0,building
 Anna & Olaf,BrickHeadz,201.0,14.99,56.0,78.0,other
 Andrea's Park Performance,Friends,229.0,24.99,80.0,126.0,other
@@ -448,7 +448,7 @@ The Flash,DC,122.0,9.99,40.0,47.0,other
 Harry Potter Advent Calendar,Harry Potter,305.0,39.99,3.0,151.0,other
 Darth Maul,Star Wars,104.0,29.99,52.0,43.0,other
 Olivia's Deluxe Bedroom,Friends,163.0,14.99,60.0,100.0,other
-Cloud-Rider Swoop Bikes,Star Wars,355.0,29.99,92.0,148.0,other
+Cloud-Rider Swoop Bikes,Star Wars,355.0,29.99,92.0,148.0,transport
 TIE Fighter Attack,Star Wars,77.0,19.99,40.0,50.0,transport
 Brick-built Minions and their Lair,Minions,876.0,49.99,184.0,180.0,other
 Escape Pod vs. Dewback Microfighters,Star Wars,177.0,19.99,64.0,79.0,other
@@ -473,7 +473,7 @@ Wyld-Mayhem Star Fighter,THE LEGO MOVIE 2,405.0,49.99,132.0,157.0,transport
 City Central Airport,Juniors,376.0,49.99,144.0,170.0,other
 Spider-Man vs. Electro,Marvel,29.0,19.99,10.0,22.0,other
 Star Wars Advent Calendar,Star Wars,280.0,39.99,2.0,177.0,other
-Drifting Diner,Friends,345.0,29.99,92.0,182.0,other
+Drifting Diner,Friends,345.0,29.99,92.0,182.0,building
 Gentle Giants Petting Zoo,Jurassic World,24.0,19.99,13.0,19.0,other
 San Francisco,Architecture,565.0,49.99,128.0,163.0,other
 Ariel's Castle,Disney,115.0,24.99,56.0,74.0,building
@@ -487,7 +487,7 @@ Hagrid's Hut: Buckbeak's Rescue,Harry Potter,496.0,59.99,120.0,208.0,other
 Lighthouse Rescue Centre,Friends,602.0,59.99,180.0,273.0,building
 Twin-Rotor Helicopter,Creator 3-in-1,569.0,59.99,228.0,200.0,transport
 Action Battle Echo Base Defence,Star Wars,504.0,59.99,112.0,192.0,other
-Heartlake City Restaurant,Friends,624.0,59.99,140.0,201.0,other
+Heartlake City Restaurant,Friends,624.0,59.99,140.0,201.0,building
 Lunar Space Station,City,412.0,59.99,172.0,171.0,building
 Andrea's Accessories Store,Friends,294.0,29.99,84.0,128.0,building
 Triceratops Rampage,Jurassic World,447.0,59.99,112.0,200.0,other
@@ -563,7 +563,7 @@ Snoke's Throne Room,Star Wars,492.0,69.99,104.0,166.0,other
 Hogwarts Express,Harry Potter,801.0,79.99,124.0,261.0,other
 Elsa's Ice Palace,LEGO Frozen 2,701.0,79.99,180.0,234.0,building
 Arendelle Castle,LEGO Frozen 2,521.0,79.99,192.0,231.0,building
-Yoda's Hut,Star Wars,229.0,29.99,72.0,139.0,other
+Yoda's Hut,Star Wars,229.0,29.99,72.0,139.0,building
 Dirt Road Pursuit,City,297.0,39.99,116.0,140.0,other
 Emmet and Lucy's Escape Buggy!,THE LEGO MOVIE 2,550.0,49.99,124.0,199.0,other
 Cruising Adventures,Creator 3-in-1,597.0,59.99,216.0,246.0,other
@@ -577,7 +577,7 @@ Watchpoint: Gibraltar,Overwatch,730.0,89.99,192.0,287.0,other
 Unikingdom Creative Brick Box,Unikitty,433.0,39.99,172.0,220.0,other
 Blue's Helicopter Pursuit,Jurassic World,397.0,39.99,112.0,177.0,transport
 Stephanie's Sports Arena,Friends,460.0,44.99,108.0,188.0,building
-Ducati Panigale V4 R,Technic,646.0,69.99,128.0,128.0,other
+Ducati Panigale V4 R,Technic,646.0,69.99,128.0,128.0,transport
 Heavy Cargo Transport,City,310.0,29.99,128.0,161.0,transport
 Heartlake City Airplane,Friends,574.0,69.99,164.0,238.0,transport
 4 Privet Drive,Harry Potter,797.0,69.99,184.0,255.0,other
@@ -594,7 +594,7 @@ T. Rex Breakout,Juniors,150.0,49.99,76.0,98.0,other
 Empire Temple of Madness,NINJAGO,810.0,79.99,160.0,267.0,building
 Lloyd's Titan Mech,NINJAGO,876.0,79.99,164.0,230.0,other
 Monastery of Spinjitzu,NINJAGO,1070.0,79.99,188.0,359.0,building
-Mos Eisley Cantina,Star Wars,376.0,39.99,80.0,140.0,other
+Mos Eisley Cantina,Star Wars,376.0,39.99,80.0,140.0,building
 S.O.G. Headquarters,NINJAGO,530.0,39.99,96.0,246.0,other
 First Order AT-ST,Star Wars,370.0,39.99,80.0,157.0,transport
 Townhouse Pet Shop & CafÃ©,Creator 3-in-1,969.0,79.99,356.0,289.0,building
@@ -609,7 +609,7 @@ The Ultra Dragon,NINJAGO,951.0,84.99,160.0,262.0,other
 Ariel & Ursula,BrickHeadz,361.0,19.99,121.0,121.0,other
 Darth Vader,Star Wars,168.0,39.99,56.0,61.0,other
 TRON: Legacy,Ideas,230.0,34.99,68.0,73.0,other
-Clone Scout Walker Â 20th Anniversary Edition,Star Wars,250.0,29.99,80.0,109.0,other
+Clone Scout Walker Â 20th Anniversary Edition,Star Wars,250.0,29.99,80.0,109.0,transport
 General Grievous's Starfighter,Star Wars,487.0,79.99,96.0,139.0,transport
 Sith TIE Fighter,Star Wars,470.0,79.99,104.0,127.0,transport
 Venomosaurus Ambush,Marvel,640.0,79.99,148.0,242.0,other
@@ -628,7 +628,7 @@ Mountain Arrest,City,303.0,59.99,136.0,168.0,other
 Modular Skate House,Creator 3-in-1,422.0,39.99,196.0,169.0,building
 Harry Potter & Hedwig,BrickHeadz,180.0,14.99,60.0,73.0,other
 Farm Pony Stable,DUPLO,59.0,29.99,25.0,31.0,building
-First Responder,Technic,513.0,49.99,212.0,106.0,other
+First Responder,Technic,513.0,49.99,212.0,106.0,transport
 Air Base,City,529.0,89.99,260.0,270.0,other
 Emma's Art CafÃ©,Friends,378.0,32.99,112.0,166.0,other
 Emmet's Dream House/Rescue Rocket!,THE LEGO MOVIE 2,706.0,69.99,260.0,197.0,other
@@ -643,7 +643,7 @@ Hogwarts Clock Tower,Harry Potter,922.0,89.99,176.0,276.0,building
 Mission to Mars,Classic,871.0,59.99,81.0,330.0,other
 Avengers Tower Battle,Marvel,685.0,89.99,136.0,250.0,building
 Mobile Bat Base,DC,743.0,89.99,140.0,275.0,transport
-Fiat 500,Creator Expert,960.0,89.99,144.0,269.0,other
+Fiat 500,Creator Expert,960.0,89.99,144.0,269.0,transport
 Steamboat Willie,Ideas,751.0,89.99,176.0,202.0,other
 Yoda,Star Wars,1771.0,99.99,224.0,235.0,other
 Castle of the Forsaken Emperor,NINJAGO,1218.0,99.99,248.0,361.0,building
@@ -659,8 +659,8 @@ Cole's Earth Driller ,NINJAGO,587.0,49.99,132.0,216.0,other
 World Animals,DUPLO,121.0,99.99,48.0,75.0,other
 Statue of Liberty,Architecture,1685.0,119.99,184.0,146.0,other
 Rapunzel's Tower,DUPLO,37.0,29.99,24.0,26.0,building
-NASA Apollo 11 Lunar Lander,Creator Expert,1087.0,99.99,124.0,193.0,other
-Harley-Davidson Fat Boy,Creator Expert,1023.0,99.99,156.0,300.0,other
+NASA Apollo 11 Lunar Lander,Creator Expert,1087.0,99.99,124.0,193.0,transport
+Harley-Davidson Fat Boy,Creator Expert,1023.0,99.99,156.0,300.0,transport
 Batcave Clayface Invasion,Batman,1038.0,99.99,168.0,333.0,other
 The White House,Architecture,1483.0,99.99,188.0,180.0,building
 Dom's Dodge Charger,Technic,1077.0,99.99,236.0,172.0,transport
@@ -670,7 +670,7 @@ Pirate Ship,Creator 3-in-1,1264.0,99.99,428.0,359.0,transport
 Range Trooper,Star Wars,101.0,24.99,48.0,51.0,other
 Sweet Mayhem's Systar Starship!,THE LEGO MOVIE 2,502.0,69.99,100.0,188.0,other
 Indominus rex vs. Ankylosaurus,Jurassic World,537.0,99.99,112.0,216.0,other
-Crocodile Locomotive,Creator Expert,1271.0,99.99,132.0,212.0,other
+Crocodile Locomotive,Creator Expert,1271.0,99.99,132.0,212.0,transport
 Hogwarts Astronomy Tower,Harry Potter,971.0,99.99,172.0,310.0,building
 Hogwarts Great Hall,Harry Potter,878.0,99.99,184.0,284.0,building
 Gingerbread House,Creator Expert,1477.0,99.99,196.0,321.0,building
@@ -681,7 +681,7 @@ Police Station,City,743.0,99.99,345.0,298.0,building
 Tuning Workshop,City,897.0,99.99,389.0,411.0,building
 Ghost Train Express,Hidden Side,698.0,79.99,136.0,268.0,transport
 Defense of Crait,Star Wars,746.0,84.99,144.0,289.0,other
-Imperial AT-Hauler,Star Wars,829.0,99.99,148.0,206.0,other
+Imperial AT-Hauler,Star Wars,829.0,99.99,148.0,206.0,transport
 Arctic Supply Plane,City,707.0,79.99,132.0,239.0,transport
 Ninja Nightcrawler,NINJAGO,552.0,39.99,124.0,205.0,other
 T. Rex Transport,Jurassic World,609.0,69.99,156.0,174.0,transport
@@ -691,7 +691,7 @@ Land Bounty,NINJAGO,1178.0,129.99,252.0,400.0,other
 Heartlake City Amusement Pier,Friends,1251.0,129.99,316.0,433.0,building
 Speed Force Freeze Pursuit,DC,271.0,29.99,80.0,138.0,other
 Avengers Helicarrier,Marvel,1244.0,119.99,220.0,355.0,other
-Slave I - 20th Anniversary Edition,Star Wars,1007.0,119.99,164.0,293.0,other
+Slave I - 20th Anniversary Edition,Star Wars,1007.0,119.99,164.0,293.0,transport
 Firstbourne,NINJAGO,882.0,69.99,172.0,337.0,other
 Corvus Glaive Thresher Attack,Marvel,416.0,39.99,124.0,168.0,other
 Heavy Duty Forklift,Technic,592.0,69.99,232.0,109.0,transport
@@ -704,7 +704,7 @@ Darth Vader's Castle,Star Wars,1060.0,129.99,188.0,285.0,building
 Ferrari Ultimate Garage,Speed Champions,841.0,99.99,200.0,309.0,transport
 Newbury Haunted High School,Hidden Side,1474.0,129.99,308.0,482.0,building
 Porg,Star Wars,811.0,69.99,144.0,189.0,other
-Tracked Loader,Technic,827.0,79.99,140.0,128.0,other
+Tracked Loader,Technic,827.0,79.99,140.0,128.0,transport
 Passenger Train,City,677.0,159.99,230.0,165.0,transport
 Rocket Assembly &Transport,City,1055.0,149.99,340.0,364.0,transport
 Carnotaurus Gyrosphere Escape,Jurassic World,577.0,79.99,140.0,226.0,other
@@ -713,15 +713,15 @@ App-Controlled Batmobile,DC,321.0,99.99,108.0,114.0,other
 The Skeleton Attack,Minecraft,457.0,39.99,100.0,136.0,other
 Mia's Camper Van,Friends,488.0,54.99,116.0,222.0,transport
 Mountain Police Headquarters,City,663.0,89.99,272.0,324.0,other
-Droid Gunship,Star Wars,389.0,49.99,84.0,150.0,other
+Droid Gunship,Star Wars,389.0,49.99,84.0,150.0,transport
 Ford Mustang,Creator Expert,1471.0,149.99,212.0,358.0,transport
 Ocean Exploration Ship,City,745.0,149.99,229.0,314.0,transport
 The Bat-Space Shuttle,DC,643.0,79.99,124.0,239.0,transport
 Ship in a Bottle,Ideas,962.0,69.99,156.0,124.0,transport
 Arctic Mobile Exploration Base,City,786.0,119.99,236.0,255.0,transport
-Forest Harvester,Technic,1003.0,149.99,388.0,157.0,other
+Forest Harvester,Technic,1003.0,149.99,388.0,157.0,transport
 Cinderella's Dream Castle,Disney,585.0,69.99,132.0,218.0,building
-Millennium Falcon,Star Wars,1353.0,159.99,268.0,352.0,other
+Millennium Falcon,Star Wars,1353.0,159.99,268.0,352.0,transport
 Killow vs. Samurai X,NINJAGO,556.0,49.99,128.0,220.0,other
 Heartlake City Pet Centre,Friends,474.0,59.99,108.0,234.0,other
 Rally Car,Technic,1005.0,109.99,364.0,152.0,transport
@@ -729,14 +729,14 @@ The Bedrock Adventures,Minecraft,644.0,89.99,108.0,168.0,other
 X-wing Starfighter,Star Wars,730.0,79.99,120.0,224.0,transport
 Compact Crawler Crane,Technic,920.0,99.99,344.0,102.0,transport
 Pirate Roller Coaster,Creator 3-in-1,923.0,89.99,324.0,277.0,other
-Imperial Landing Craft,Star Wars,636.0,89.99,108.0,191.0,other
-Volvo Concept Wheel Loader ZEUX,Technic,1167.0,139.99,504.0,143.0,other
-Land Rover Defender,Technic,2573.0,199.99,496.0,262.0,other
+Imperial Landing Craft,Star Wars,636.0,89.99,108.0,191.0,transport
+Volvo Concept Wheel Loader ZEUX,Technic,1167.0,139.99,504.0,143.0,transport
+Land Rover Defender,Technic,2573.0,199.99,496.0,262.0,transport
 Car Transporter,Technic,2493.0,179.99,961.0,190.0,transport
-Bookshop,Creator Expert,2504.0,179.99,216.0,561.0,other
+Bookshop,Creator Expert,2504.0,179.99,216.0,561.0,building
 Cargo Train,City,1227.0,229.99,362.0,410.0,transport
 Friendship House,Friends,722.0,69.99,164.0,309.0,building
-Vestas Wind Turbine,Creator Expert,826.0,199.99,148.0,230.0,other
+Vestas Wind Turbine,Creator Expert,826.0,199.99,148.0,230.0,building
 The Hulkbuster: Ultron Edition,Marvel,1363.0,119.99,184.0,268.0,other
 Dragon Pit,NINJAGO,1660.0,129.99,244.0,424.0,other
 Sanctum Sanctorum Showdown,Marvel,1004.0,99.99,220.0,312.0,other
@@ -744,36 +744,36 @@ Droid Commander,Star Wars,1177.0,199.99,25.0,343.0,other
 The Farm Cottage ,Minecraft,549.0,49.99,116.0,157.0,building
 The Upside Down,Stranger Things,2287.0,199.99,300.0,533.0,other
 Corner Garage,Creator Expert,2569.0,199.99,236.0,564.0,building
-Tantive IV,Star Wars,1768.0,199.99,260.0,387.0,other
+Tantive IV,Star Wars,1768.0,199.99,260.0,387.0,transport
 A-wing Starfighter,Star Wars,1673.0,199.99,272.0,355.0,transport
 Pirates of Barracuda Bay,Ideas,2545.0,199.99,460.0,575.0,other
 Imperial TIE Fighter,Star Wars,519.0,69.99,76.0,129.0,transport
-Indoraptor Rampage at Lockwood Estate,Jurassic World,1019.0,129.99,176.0,257.0,other
+Indoraptor Rampage at Lockwood Estate,Jurassic World,1019.0,129.99,176.0,257.0,transport
 City Hospital,City,861.0,99.99,329.0,362.0,building
 Dieselnaut,NINJAGO,1179.0,109.99,156.0,308.0,other
-Sandcrawler,Star Wars,1239.0,139.99,188.0,277.0,other
+Sandcrawler,Star Wars,1239.0,139.99,188.0,277.0,transport
 4x4 X-Treme Off-Roader,Powered UP,958.0,249.99,224.0,131.0,other
 The Rexcelsior!,THE LEGO MOVIE 2,1826.0,149.99,276.0,377.0,other
 Heartlake City Resort,Friends,1017.0,99.99,208.0,326.0,building
 AT-AT,Star Wars,1267.0,159.99,188.0,285.0,transport
 Mining Experts Site,City,883.0,99.99,244.0,284.0,other
 Capital City,City,1211.0,149.99,441.0,489.0,other
-6x6 Volvo Articulated Hauler,Technic,2193.0,249.99,456.0,234.0,other
-Downtown Diner,Creator Expert,2480.0,169.99,200.0,508.0,other
-Kessel Run Millennium Falcon,Star Wars,1414.0,169.99,208.0,318.0,other
+6x6 Volvo Articulated Hauler,Technic,2193.0,249.99,456.0,234.0,transport
+Downtown Diner,Creator Expert,2480.0,169.99,200.0,508.0,building
+Kessel Run Millennium Falcon,Star Wars,1414.0,169.99,208.0,318.0,transport
 Temple of Resurrection,NINJAGO,765.0,69.99,144.0,297.0,building
 Rough Terrain Crane,Technic,4057.0,299.99,1527.0,262.0,transport
 Old Trafford - Manchester United,Creator Expert,3898.0,299.99,368.0,332.0,building
 Farm Adventures,DUPLO,104.0,59.99,40.0,42.0,other
-Mack Anthem,Technic,2595.0,179.99,897.0,253.0,other
+Mack Anthem,Technic,2595.0,179.99,897.0,253.0,transport
 Bugatti Chiron,Technic,3599.0,349.99,633.0,306.0,transport
 Roller Coaster,Creator Expert,4124.0,379.99,440.0,556.0,other
 Voltron,Ideas,2321.0,179.99,92.0,471.0,other
 Hogwarts Castle,Harry Potter,6020.0,399.99,636.0,624.0,building
 NINJAGO City Docks,NINJAGO,3553.0,229.99,380.0,690.0,other
 Liebherr R 9800,Powered UP,4108.0,449.99,740.0,221.0,other
-Betrayal at Cloud City,Star Wars,2812.0,349.99,388.0,676.0,other
-Imperial Star Destroyer,Star Wars,4784.0,699.99,444.0,445.0,other
+Betrayal at Cloud City,Star Wars,2812.0,349.99,388.0,676.0,transport
+Imperial Star Destroyer,Star Wars,4784.0,699.99,444.0,445.0,transport
 Battle of Endor,Star Wars,197.0,14.99,1.0,40.0,other
 Mini Frame,DOTS,85.0,4.99,2.0,13.0,other
 Creative Picture Frames,DOTS,398.0,19.99,2.0,31.0,other
@@ -860,13 +860,13 @@ Kylo Ren & Sith Trooper,Star Wars,240.0,19.99,76.0,72.0,other
 Owen & Blue,BrickHeadz,234.0,19.99,77.0,82.0,other
 Black Widow's Helicopter Chase,Marvel,271.0,29.99,80.0,125.0,transport
 Venom Crawler,Marvel,413.0,29.99,80.0,132.0,other
-Armored Assault Tank (AAT),Star Wars,286.0,39.99,80.0,121.0,other
+Armored Assault Tank (AAT),Star Wars,286.0,39.99,80.0,121.0,transport
 Captain Marvel and The Skrull Attack,Marvel,307.0,29.99,80.0,126.0,other
 Mr. & Mrs. Claus,BrickHeadz,341.0,19.99,84.0,109.0,other
 Death Star II Battle,Star Wars,235.0,14.99,84.0,72.0,other
 501st Legion Clone Troopers,Star Wars,285.0,29.99,84.0,125.0,other
 Hoth Medical Chamber,Star Wars,255.0,29.99,84.0,120.0,other
-Sandspeeder,Star Wars,278.0,29.99,84.0,110.0,other
+Sandspeeder,Star Wars,278.0,29.99,84.0,110.0,transport
 Bricks and Eyes ,Classic,451.0,29.99,88.0,171.0,other
 Stephanie's House,Friends,170.0,39.99,92.0,116.0,building
 Emmet's Triple-Decker Couch Mech,THE LEGO MOVIE 2,312.0,29.99,92.0,98.0,other
@@ -880,7 +880,7 @@ Spinning Brushes Car Wash,Friends,325.0,29.99,108.0,174.0,transport
 Air Race,City,140.0,39.99,108.0,84.0,other
 Bricks and Lights,Classic,441.0,29.99,109.0,173.0,other
 Quidditch Match,Harry Potter,500.0,39.99,112.0,205.0,other
-Iron Bull Tank,Monkie Kid,430.0,49.99,124.0,160.0,other
+Iron Bull Tank,Monkie Kid,430.0,49.99,124.0,160.0,transport
 Rainbow Caterbus,Trolls World Tour,395.0,39.99,132.0,170.0,other
 Kai Fighter,NINJAGO,513.0,39.99,132.0,174.0,transport
 Jurassic Park Velociraptor Chase ,Jurassic World,360.0,39.99,132.0,195.0,other
@@ -894,10 +894,10 @@ Hedwig,Harry Potter,630.0,39.99,148.0,166.0,other
 Tree House Treasures ,Creator 3-in-1,260.0,29.99,152.0,119.0,building
 Monkie Kid's Cloud Jet,Monkie Kid,390.0,59.99,168.0,199.0,transport
 Zane's Mino Creature,NINJAGO,616.0,49.99,172.0,202.0,other
-James Bond Aston Martin DB5,Creator Expert,1295.0,149.99,173.0,310.0,other
+James Bond Aston Martin DB5,Creator Expert,1295.0,149.99,173.0,310.0,transport
 Attack on The Burrow,Harry Potter,1047.0,99.99,180.0,383.0,other
 Police Brick Box,City,301.0,39.99,188.0,162.0,other
-Outback Cabin,Creator 3-in-1,305.0,29.99,196.0,141.0,other
+Outback Cabin,Creator 3-in-1,305.0,29.99,196.0,141.0,building
 Demon Bull King,Monkie Kid,585.0,89.99,200.0,264.0,other
 Skull Sorcerer's Dragon,NINJAGO,1016.0,79.99,200.0,303.0,other
 Vibe City Concert,Trolls World Tour,494.0,59.99,204.0,216.0,other
