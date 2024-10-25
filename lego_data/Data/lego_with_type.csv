@@ -6,7 +6,7 @@ Tow Truck,DUPLO,7.0,6.99,3.0,7.0,transport
 Stephanie's Summer Heart Box,Friends,95.0,7.99,40.0,52.0,other
 White Baseplate,Classic,1.0,7.99,1.0,1.0,other
 My First Tow Truck,DUPLO,11.0,9.99,10.0,10.0,transport
-Woody & RC,Disney,69.0,9.99,28.0,36.0,other
+Woody & RC,Disney,69.0,9.99,28.0,36.0,transport
 Mia's Summer Heart Box,Friends,85.0,7.99,36.0,41.0,other
 Olivia's Summer Heart Box,Friends,93.0,7.99,40.0,48.0,other
 Police Patrol Car,City,92.0,9.99,36.0,52.0,transport
@@ -286,7 +286,7 @@ Tatooine Battle Pack,Star Wars,97.0,14.99,36.0,53.0,other
 Obi-Wan's Hut,Star Wars,200.0,29.99,68.0,118.0,other
 Mythical Creatures,Creator 3-in-1,223.0,14.99,189.0,66.0,other
 Heart Box Friendship Pack,Friends,199.0,19.99,60.0,90.0,other
-RV Vacation,Disney,178.0,34.99,72.0,106.0,other
+RV Vacation,Disney,178.0,34.99,72.0,106.0,transport
 Mighty Micros: Thor vs. Loki,Marvel,79.0,9.99,7.0,47.0,other
 Duel on Starkiller Base,Star Wars,191.0,19.99,68.0,83.0,other
 Stephanie's Bedroom,Friends,95.0,9.99,44.0,72.0,other
@@ -427,7 +427,7 @@ Superman & Krypto Team-Up,DC,199.0,19.99,76.0,110.0,other
 Black Ace TIE Interceptor,Star Wars,396.0,49.99,84.0,161.0,transport
 Andrea's Pool Party,Friends,468.0,49.99,112.0,221.0,other
 Garage Centre,City,234.0,49.99,116.0,62.0,building
-AT-ST Raider,Star Wars,540.0,49.99,120.0,211.0,other
+AT-ST Raider,Star Wars,540.0,49.99,120.0,211.0,transport
 Katana 4X4,NINJAGO,450.0,49.99,128.0,185.0,other
 Batwing and The Riddler Heist,Batman,489.0,49.99,132.0,212.0,other
 Fairground Carousel,Creator 3-in-1,595.0,49.99,236.0,223.0,other
@@ -596,7 +596,7 @@ Lloyd's Titan Mech,NINJAGO,876.0,79.99,164.0,230.0,other
 Monastery of Spinjitzu,NINJAGO,1070.0,79.99,188.0,359.0,building
 Mos Eisley Cantina,Star Wars,376.0,39.99,80.0,140.0,other
 S.O.G. Headquarters,NINJAGO,530.0,39.99,96.0,246.0,other
-First Order AT-ST,Star Wars,370.0,39.99,80.0,157.0,other
+First Order AT-ST,Star Wars,370.0,39.99,80.0,157.0,transport
 Townhouse Pet Shop & CafÃ©,Creator 3-in-1,969.0,79.99,356.0,289.0,building
 Arctic Scout Truck,City,322.0,59.99,100.0,148.0,transport
 Spider-Man & Hulk Adventures,DUPLO,38.0,29.99,20.0,29.0,other
@@ -668,7 +668,7 @@ Passenger Airplane,City,669.0,99.99,273.0,288.0,transport
 Summer Fun Water Park,Friends,1001.0,99.99,316.0,394.0,other
 Pirate Ship,Creator 3-in-1,1264.0,99.99,428.0,359.0,transport
 Range Trooper,Star Wars,101.0,24.99,48.0,51.0,other
-Sweet Mayhem's Systar Starship!,THE LEGO MOVIE 2,502.0,69.99,100.0,188.0,other
+Sweet Mayhem's Systar Starship!,THE LEGO MOVIE 2,502.0,69.99,100.0,188.0,transport
 Indominus rex vs. Ankylosaurus,Jurassic World,537.0,99.99,112.0,216.0,other
 Crocodile Locomotive,Creator Expert,1271.0,99.99,132.0,212.0,other
 Hogwarts Astronomy Tower,Harry Potter,971.0,99.99,172.0,310.0,building
@@ -755,7 +755,7 @@ Sandcrawler,Star Wars,1239.0,139.99,188.0,277.0,other
 4x4 X-Treme Off-Roader,Powered UP,958.0,249.99,224.0,131.0,other
 The Rexcelsior!,THE LEGO MOVIE 2,1826.0,149.99,276.0,377.0,other
 Heartlake City Resort,Friends,1017.0,99.99,208.0,326.0,building
-AT-AT,Star Wars,1267.0,159.99,188.0,285.0,other
+AT-AT,Star Wars,1267.0,159.99,188.0,285.0,transport
 Mining Experts Site,City,883.0,99.99,244.0,284.0,other
 Capital City,City,1211.0,149.99,441.0,489.0,other
 6x6 Volvo Articulated Hauler,Technic,2193.0,249.99,456.0,234.0,other
@@ -763,7 +763,7 @@ Downtown Diner,Creator Expert,2480.0,169.99,200.0,508.0,other
 Kessel Run Millennium Falcon,Star Wars,1414.0,169.99,208.0,318.0,other
 Temple of Resurrection,NINJAGO,765.0,69.99,144.0,297.0,building
 Rough Terrain Crane,Technic,4057.0,299.99,1527.0,262.0,transport
-Old Trafford - Manchester United,Creator Expert,3898.0,299.99,368.0,332.0,other
+Old Trafford - Manchester United,Creator Expert,3898.0,299.99,368.0,332.0,building
 Farm Adventures,DUPLO,104.0,59.99,40.0,42.0,other
 Mack Anthem,Technic,2595.0,179.99,897.0,253.0,other
 Bugatti Chiron,Technic,3599.0,349.99,633.0,306.0,transport
@@ -918,6 +918,6 @@ Disney Train and Station,Powered UP,2925.0,329.99,397.0,509.0,transport
 Tree House,Ideas,3036.0,199.99,428.0,482.0,building
 Welcome to Apocalypseburg!,THE LEGO MOVIE 2,3178.0,299.99,452.0,692.0,other
 Jurassic Park: T. rex Rampage,Jurassic World,3120.0,249.99,464.0,525.0,other
-Monkie Kid's Team Secret HQ,Monkie Kid,1105.0,169.99,556.0,622.0,other
+Monkie Kid's Team Secret HQ,Monkie Kid,1105.0,169.99,556.0,622.0,building
 Grand Piano,Ideas,3662.0,349.99,564.0,345.0,other
 Lamborghini SiÃ¡n FKP 37,Technic,3696.0,379.99,657.0,293.0,transport
